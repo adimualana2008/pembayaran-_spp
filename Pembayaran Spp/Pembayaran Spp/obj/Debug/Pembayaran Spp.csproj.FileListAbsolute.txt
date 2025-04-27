@@ -1,0 +1,71 @@
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe.config
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\ZstdNet.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csprojResolveAssemblyReference.cache
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.login.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.Properties.Resources.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.GenerateResource.Cache
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.exe
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.dashboard.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.siswa.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Guna.UI2.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnldashboard.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnltransaksi.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe.config
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.pdb
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Guna.UI2.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\ZstdNet.dll
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.pdb
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.AssemblyReference.cache
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.dashboard.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.login.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.Properties.Resources.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.siswa.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.GenerateResource.cache
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.CoreCompileInputs.cache
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayar.52C1D8CE.Up2Date
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.exe
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.pdb
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.use_control.pnldashboard.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.use_control.pnltransaksi.resources
+D:\Adi Maulana\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.use_control.pnlsiswa.resources

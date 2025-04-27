@@ -1,0 +1,101 @@
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe.config
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\ZstdNet.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csprojResolveAssemblyReference.cache
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.login.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.Properties.Resources.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.GenerateResource.Cache
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.exe
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.pdb
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.dashboard.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.siswa.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Guna.UI2.dll
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnldashboard.resources
+D:\SOAL UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnltransaksi.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe.config
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.exe
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Pembayaran Spp.pdb
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Guna.UI2.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\ZstdNet.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\BouncyCastle.Crypto.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.pdb
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\Google.Protobuf.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\K4os.Hash.xxHash.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\MySql.Data.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Buffers.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Memory.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csprojResolveAssemblyReference.cache
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.dashboard.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.login.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.petugas.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnldashboard.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.Properties.Resources.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.siswa.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.csproj.GenerateResource.Cache
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.exe
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran Spp.pdb
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.biaya.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.kelas.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.laporan.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.Transaksi_pembayaran.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.Shared.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\FlashControlV71.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\ShockwaveFlashObjects.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\bin\Debug\stdole.dll
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.laporantanggungan.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctkkuitansi.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctkpembayaran.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctktanggungan.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.pnllpsiswa.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctkkelas.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctkbiaya.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctkpetugas.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.ctksiswa.resources
+D:\tugas jurusan\Persiapan UKK\Pembayaran Spp\Pembayaran Spp\obj\Debug\Pembayaran_Spp.kenaikan.resources
